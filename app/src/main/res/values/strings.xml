@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarot</string>
+    <string name="start">Start</string>
+    <string name="add_player">Add player ...</string>
+    <string name="mise">Mise</string>
+    <string name="nouvelle_mise">Nouvelle mise</string>
+    <string name="add_points">Add points</string>
+    <string name="valider">Valider</string>
+    <string name="background_image">background image</string>
+</resources>
